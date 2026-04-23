@@ -4,7 +4,7 @@
 
 
 
-## Class A / Team 1
+## Class B / Team 5
 
 | Nama | NIM | Job |
 |------|-----|-----|
@@ -15,4 +15,4 @@
 | Gabriela Evelyn Anzelbi | H1101241052 | S3+CloudFront Frontend |
 | Shalwa Nafiisa Yusri | H1101241065 | Test & Docs |
 
-[Canva - Arsitektur Diagram AWS]()
+[Canva - Arsitektur Diagram AWS Team 5](https://canva.link/38h81z24jpmgpsb)
