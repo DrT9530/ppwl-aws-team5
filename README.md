@@ -16,3 +16,4 @@
 | Shalwa Nafiisa Yusri | H1101241065 | Test & Docs |
 
 [Canva - Arsitektur Diagram AWS Team 5](https://canva.link/38h81z24jpmgpsb)
+[Link Cloudfront](https://d1d84e4jx1i4ls.cloudfront.net)
